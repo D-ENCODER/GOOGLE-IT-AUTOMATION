@@ -8,7 +8,9 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 
 ---
 
-☒ = Coming soon
+❎ = Coming soon
+
+
 ☑ = Available
 
 ## Course-1 Crash Course on Python
@@ -49,24 +51,24 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 |     2    	|                    Practice Quiz 1      	|      ☑     	|
 |     2    	|                    Practice Quiz 2      	|      ☑     	|
 |     2    	|    Qwiklabs Assessment - Handling Files 	|      ☑     	|
-|     3    	|                    Practice Quiz 1      	|      ☒     	|
-|     3    	|                    Practice Quiz 2      	|      ☒     	|
-|     3    	|                    Practice Quiz 3      	|      ☒     	|
-|     3    	| Qwiklabs Assessment - Working with Regular Expressions|      ☒     	|
-|     4    	|                    Practice Quiz 1      	|      ☒     	|
-|     4    	|                    Practice Quiz 2      	|      ☒     	|
-|     4    	|                    Practice Quiz 3      	|      ☒     	|
-|     4    	|Qwiklabs Assessment - Working with Log Files|      ☒     	|
-|     5    	|                    Practice Quiz 1      	|      ☒     	|
-|     5    	|                   Practice Notebook 1	    |      ☒     	|
-|     5    	|                   Practice Quiz 2          |      ☒     	|
-|     5    	|              Practice Notebook 2           |      ☒     	|
-|     5    	|Qwiklabs Assessment - Implementing Unit Testing|      ☒     	|
-|     6    	| Practice Quiz 1 |      ☒     	|
-|     6    	|     Practice Quiz 2 |      ☒     	|
-|     6    	| Practice Quiz 3 |      ☒     	|
-|     6    	|Qwiklabs Assessment - Editing Files Using Substrings|      ☒     	|
-|     7    	| Qwiklabs Assessment - Log Analysis Using Regular Expressions |      ☒     	|
+|     3    	|                    Practice Quiz 1      	|      ❎     	|
+|     3    	|                    Practice Quiz 2      	|      ❎     	|
+|     3    	|                    Practice Quiz 3      	|      ❎     	|
+|     3    	| Qwiklabs Assessment - Working with Regular Expressions|      ❎     	|
+|     4    	|                    Practice Quiz 1      	|      ❎     	|
+|     4    	|                    Practice Quiz 2      	|      ❎     	|
+|     4    	|                    Practice Quiz 3      	|      ❎     	|
+|     4    	|Qwiklabs Assessment - Working with Log Files|      ❎     	|
+|     5    	|                    Practice Quiz 1      	|      ❎     	|
+|     5    	|                   Practice Notebook 1	    |      ❎     	|
+|     5    	|                   Practice Quiz 2          |      ❎     	|
+|     5    	|              Practice Notebook 2           |      ❎     	|
+|     5    	|Qwiklabs Assessment - Implementing Unit Testing|      ❎     	|
+|     6    	| Practice Quiz 1 |      ❎     	|
+|     6    	|     Practice Quiz 2 |      ❎     	|
+|     6    	| Practice Quiz 3 |      ❎     	|
+|     6    	|Qwiklabs Assessment - Editing Files Using Substrings|      ❎     	|
+|     7    	| Qwiklabs Assessment - Log Analysis Using Regular Expressions |      ❎     	|
   
 ## Course-3 Introduction to Git and GitHub
 
