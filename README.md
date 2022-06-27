@@ -16,7 +16,7 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 ## Course-1 Crash Course on Python
 
 | <center>**Week** 	|          <center>**Name**          	| <center>**Status** 	|
-|:--------:	|:--------------------------:	|------------	|
+|:--------:	|:--------------------------:	|:------------:	|
 |     1    	|                    Practice Quiz 1      	|      ☑     	|
 |     1    	|                    Practice Quiz 2      	|      ☑     	|
 |     1    	|              Module 1 Graded Assessment 	|      ☑     	|
@@ -42,7 +42,7 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 ## Course-2 Using Python to Interact with the Operating System
 
 | <center>**Week** 	|          <center>**Name**          	| <center>**Status** 	|
-|:--------:	|:--------------------------:	|------------	|
+|:--------:	|:--------------------------:	|:------------:	|
 |     1    	|                    Practice Quiz 1      	|      ☑     	|
 |     1    	|                    Practice Quiz 2      	|      ☑     	|
 |     1    	|                    Practice Quiz 3      	|      ☑     	|
@@ -73,7 +73,7 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 ## Course-3 Introduction to Git and GitHub
 
 | <center>**Week** 	|          <center>**Name**          	| <center>**Status** 	|
-|:--------:	|:--------------------------:	|------------	|
+|:--------:	|:--------------------------:	|:------------:	|
 |     1    	|                    Practice Quiz 1      	|      ☑     	|
 |     1    	|                    Practice Quiz 2      	|      ☑     	|
 |     1    	|                    Practice Quiz 3      	|      ☑     	|
