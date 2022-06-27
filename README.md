@@ -51,10 +51,10 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 |     2    	|                    Practice Quiz 1      	|      ☑     	|
 |     2    	|                    Practice Quiz 2      	|      ☑     	|
 |     2    	|    Qwiklabs Assessment - Handling Files 	|      ☑     	|
-|     3    	|                    Practice Quiz 1      	|      ❎     	|
-|     3    	|                    Practice Quiz 2      	|      ❎     	|
-|     3    	|                    Practice Quiz 3      	|      ❎     	|
-|     3    	| Qwiklabs Assessment - Working with Regular Expressions|      ❎     	|
+|     3    	|                    Practice Quiz 1      	|      ☑     	|
+|     3    	|                    Practice Quiz 2      	|      ☑     	|
+|     3    	|                    Practice Quiz 3      	|      ☑     	|
+|     3    	| Qwiklabs Assessment - Working with Regular Expressions|      ☑     	|
 |     4    	|                    Practice Quiz 1      	|      ❎     	|
 |     4    	|                    Practice Quiz 2      	|      ❎     	|
 |     4    	|                    Practice Quiz 3      	|      ❎     	|
