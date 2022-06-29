@@ -55,10 +55,10 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 |     3    	|                    Practice Quiz 2      	|      ☑     	|
 |     3    	|                    Practice Quiz 3      	|      ☑     	|
 |     3    	| Qwiklabs Assessment - Working with Regular Expressions|      ☑     	|
-|     4    	|                    Practice Quiz 1      	|      ❎     	|
-|     4    	|                    Practice Quiz 2      	|      ❎     	|
-|     4    	|                    Practice Quiz 3      	|      ❎     	|
-|     4    	|Qwiklabs Assessment - Working with Log Files|      ❎     	|
+|     4    	|                    Practice Quiz 1      	|      ☑     	|
+|     4    	|                    Practice Quiz 2      	|      ☑     	|
+|     4    	|                    Practice Quiz 3      	|      ☑     	|
+|     4    	|Qwiklabs Assessment - Working with Log Files|      ☑     	|
 |     5    	|                    Practice Quiz 1      	|      ❎     	|
 |     5    	|                   Practice Notebook 1	    |      ❎     	|
 |     5    	|                   Practice Quiz 2          |      ❎     	|
