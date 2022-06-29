@@ -1,4 +1,5 @@
 # GOOGLE-IT-AUTOMATION
+[![Maintainability](https://api.codeclimate.com/v1/badges/f468d3f2193caa56ef6e/maintainability)](https://codeclimate.com/github/D-ENCODER/GOOGLE-IT-AUTOMATION/maintainability)
 ---
 Don't just copy and paste, wanna learn the logic? Just head on to the discussion section.
 
