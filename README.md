@@ -60,16 +60,16 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 |     4    	|                    Practice Quiz 2      	|      ☑     	|
 |     4    	|                    Practice Quiz 3      	|      ☑     	|
 |     4    	|Qwiklabs Assessment - Working with Log Files|      ☑     	|
-|     5    	|                    Practice Quiz 1      	|      ❎     	|
-|     5    	|                   Practice Notebook 1	    |      ❎     	|
-|     5    	|                   Practice Quiz 2          |      ❎     	|
-|     5    	|              Practice Notebook 2           |      ❎     	|
-|     5    	|Qwiklabs Assessment - Implementing Unit Testing|      ❎     	|
-|     6    	| Practice Quiz 1 |      ❎     	|
-|     6    	|     Practice Quiz 2 |      ❎     	|
-|     6    	| Practice Quiz 3 |      ❎     	|
-|     6    	|Qwiklabs Assessment - Editing Files Using Substrings|      ❎     	|
-|     7    	| Qwiklabs Assessment - Log Analysis Using Regular Expressions |      ❎     	|
+|     5    	|                    Practice Quiz 1      	|      ☑     	|
+|     5    	|                   Practice Notebook 1	    |      ☑     	|
+|     5    	|                   Practice Quiz 2          |      ☑     	|
+|     5    	|              Practice Notebook 2           |      ☑     	|
+|     5    	|Qwiklabs Assessment - Implementing Unit Testing|      ☑     	|
+|     6    	| Practice Quiz 1 |      ☑     	|
+|     6    	|     Practice Quiz 2 |      ☑     	|
+|     6    	| Practice Quiz 3 |      ☑     	|
+|     6    	|Qwiklabs Assessment - Editing Files Using Substrings|      ☑     	|
+|     7    	| Qwiklabs Assessment - Log Analysis Using Regular Expressions |      ☑     	|
   
 ## Course-3 Introduction to Git and GitHub
 
