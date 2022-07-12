@@ -92,3 +92,24 @@ peace out [@DENCODER](https://github.com/D-ENCODER)
 |     4    	|                    Practice Quiz 3      	|      ☑     	|
 |     4    	|  Qwiklabs Assessment - Pushing Local Commits to Github 	|      ☑     	|
 
+## Course-4 Troubleshooting and Debugging Techniques
+
+| <center>**Week** 	|          <center>**Name**          	| <center>**Status** 	|
+|:--------:	|:--------------------------:	|:------------:	|
+|     1    	|                    Practice Quiz 1      	|      ☑     	|
+|     1    	|                    Practice Quiz 2      	|      ☑     	|
+|     1    	|                    Practice Quiz 3      	|      ☑     	|
+|     1    	| Qwiklabs Assessment - Debugging Python Scripts |      ☑     	|
+|     2    	|                    Practice Quiz 1      	|      ☑     	|
+|     2    	|                    Practice Quiz 2      	|      ☑     	|
+|     2    	|                    Practice Quiz 3      	|      ☑     	|
+|     2    	|Qwiklabs Assessment - Performance Tuning in Python Scripts|      ☑     	|
+|     3    	|                    Practice Quiz 1      	|      ☑     	|
+|     3    	|                    Practice Quiz 2      	|      ☑     	|
+|     3    	|                    Practice Quiz 3      	|      ☑     	|
+|     3    	| Qwiklabs Assessment - Fixing Errors in Python Scripts |      ☑     	|
+|     4    	|                    Practice Quiz 1      	|      ☑     	|
+|     4    	|                    Practice Quiz 2      	|      ☑     	|
+|     4    	|                    Practice Quiz 3      	|      ☑     	|
+|     4    	|  Qwiklabs Assessment - Debugging and Solving Software Problems |      ☑     	|
+
