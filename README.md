@@ -5,7 +5,9 @@
 
 ---
 
-CERTIFICATE-1 [embed]https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20H7ABKWJZBNLH.pdf[/embed]
+https://docs.google.com/viewer?url=https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20H7ABKWJZBNLH.pdf
+
+CERTIFICATE-1 [embed][/embed]
 
 ---
 ❎ = Coming soon
