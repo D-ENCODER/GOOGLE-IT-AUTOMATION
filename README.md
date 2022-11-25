@@ -5,9 +5,13 @@
 
 ---
 
-https://docs.google.com/viewer?url=https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20H7ABKWJZBNLH.pdf
-
-CERTIFICATE-1 [embed][/embed]
+[CERTIFICATE-1](https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20H7ABKWJZBNLH.pdf)
+[CERTIFICATE-2](https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20C6JV6DDQTCMK.pdf)
+[CERTIFICATE-3](https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20WXUQFP5YZJW3.pdf)
+[CERTIFICATE-4](https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20MGUGTXAY2V9Q.pdf)
+[CERTIFICATE-5](https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20W6LUXUAT2AV8.pdf)
+[CERTIFICATE-6](https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%207B82WL8NQN27.pdf)
+[FINAL-CERTIFICATE](https://github.com/D-ENCODER/GOOGLE-IT-AUTOMATION/blob/master/Certificates/Coursera%20QKL234BK75AE.pdf)
 
 ---
 ❎ = Coming soon
