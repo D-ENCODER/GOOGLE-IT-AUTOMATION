@@ -109,3 +109,32 @@
 |     4    	|                    Practice Quiz 3      	|      ☑     	|
 |     4    	|  Qwiklabs Assessment - Debugging and Solving Software Problems |      ☑     	|
 
+## Course-5 Configuration Management and the Cloud
+
+| <center>**Week** 	|          <center>**Name**          	| <center>**Status** 	|
+|:--------:	|:--------------------------:	|:------------:	|
+|     1    	|                    Practice Quiz 1      	|      ☑     	|
+|     1    	|                    Practice Quiz 2      	|      ☑     	|
+|     1    	|                    Practice Quiz 3      	|      ☑     	|
+|     1    	| Qwiklabs Assessment - Debugging Puppet Installation |      ☑     	|
+|     2    	|                    Practice Quiz 1      	|      ☑     	|
+|     2    	|                    Practice Quiz 2      	|      ☑     	|
+|     2    	|                    Practice Quiz 3      	|      ☑     	|
+|     2    	|Qwiklabs Assessment - Deployment Using Puppet|      ☑     	|
+|     3    	|                    Practice Quiz 1      	|      ☑     	|
+|     3    	|                    Practice Quiz 2      	|      ☑     	|
+|     3    	|                    Practice Quiz 3      	|      ☑     	|
+|     3    	| Qwiklabs Assessment - Create VM template and Automate deployment |      ☑     	|
+|     4    	|                    Practice Quiz 1      	|      ☑     	|
+|     4    	|                    Practice Quiz 2      	|      ☑     	|
+|     4    	|                    Practice Quiz 3      	|      ☑     	|
+|     4    	|  Qwiklabs Assessment - Debugging Cloud Deployment |      ☑     	|
+
+## Course-6 Automating Real-World Tasks with Python
+
+| <center>**Week** 	|          <center>**Name**          	| <center>**Status** 	|
+|:--------:	|:--------------------------:	|:------------:	|
+|     1    	| Qwiklabs Assessment - Scale and convert images using PIL |      ☑     	|
+|     2    	|Qwiklabs Assessment - Process Text Files with Python Dictionaries and Upload to Running Web Service|      ☑     	|
+|     3    	| Qwiklabs Assessment - Automatically Generate a PDF and send it by Email |      ☑     	|
+|     4    	|  Qwiklabs Assessment - Automate updating catalog information |      ☑     	|
